@@ -14,7 +14,7 @@ cd inverse-affine-transforms
 
 Create a conda environment:
 ```
-conda create -n affine python=3.7
+conda create -n affine python=3.9
 conda activate affine
 pip install --upgrade pip
 ```
